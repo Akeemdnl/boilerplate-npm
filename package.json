@@ -1,6 +1,7 @@
 {
 	"author": "Akeem",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A freecodecamp tutorial for package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
